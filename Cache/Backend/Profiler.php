@@ -7,7 +7,6 @@
  *
  * $Id$
  */
-require_once LS_DKCACHE_PATH."Zend/Cache/Backend/Interface.php";
  
 class Dklab_Cache_Backend_Profiler implements Zend_Cache_Backend_Interface 
 {

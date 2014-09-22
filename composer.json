@@ -3,6 +3,16 @@
     "version": "1.0.0",
     "description": "Clone of dklabcache for composer",
     "keywords": ["cache"],
+    "authors" : [
+        {
+            "name": "dk",
+            "role": "Author"
+        },
+        {
+            "name": "Jeka Kiselyov",
+            "role": "Current maintainer"
+        }
+    ],
     "autoload": {
         "classmap": ["Cache/Backend/", "Zend/", "Zend/Cache/", "Zend/Cache/Backend/"]
     }

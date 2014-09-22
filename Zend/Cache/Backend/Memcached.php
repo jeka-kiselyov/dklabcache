@@ -20,16 +20,6 @@
  */
 
 
-/**
- * @see Zend_Cache_Backend_Interface
- */
-require_once LS_DKCACHE_PATH.'Zend/Cache/Backend/Interface.php';
-
-/**
- * @see Zend_Cache_Backend
- */
-require_once LS_DKCACHE_PATH.'Zend/Cache/Backend.php';
-
 
 /**
  * @package    Zend_Cache

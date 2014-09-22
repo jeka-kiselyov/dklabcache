@@ -18,10 +18,6 @@
  * @license    http://framework.zend.com/license/new-bsd     New BSD License
  */
 
-/**
- * @see Zend_Exception
- */
-require_once LS_DKCACHE_PATH.'Zend/Exception.php';
 
 /**
  * @package    Zend_Cache

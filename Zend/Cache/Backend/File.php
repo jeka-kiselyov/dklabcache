@@ -21,17 +21,6 @@
 
 
 /**
- * @see Zend_Cache_Backend_Interface
- */
-require_once LS_DKCACHE_PATH.'Zend/Cache/Backend/Interface.php';
-
-/**
- * @see Zend_Cache_Backend
- */
-require_once LS_DKCACHE_PATH.'Zend/Cache/Backend.php';
-
-
-/**
  * @package    Zend_Cache
  * @subpackage Zend_Cache_Backend
  * @copyright  Copyright (c) 2005-2008 Zend Technologies USA Inc. (http://www.zend.com)
