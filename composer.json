@@ -1,0 +1,9 @@
+{
+    "name": "jeka-kiselyov/dklabcache",
+    "version": "1.0.0",
+    "description": "Clone of dklabcache for composer",
+    "keywords": ["cache"],
+    "autoload": {
+        "classmap": ["Cache/Backend/", "Zend/", "Zend/Cache/", "Zend/Cache/Backend/"]
+    }
+}
